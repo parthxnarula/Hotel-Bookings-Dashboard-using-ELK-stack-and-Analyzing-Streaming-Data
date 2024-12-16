@@ -1,38 +1,32 @@
 # Hotel-Bookings-Dashboard-using-ELK-stack-and-Analyzing-Streaming-Data
 
-Objectives:
+### Objectives:
 
-1. Enhance Meal Offerings:
+1. **Enhance Meal Offerings:**  
+   - Promote **BB (Bed & Breakfast)** packages as the most preferred option.  
+   - Improve flexibility and affordability of **FB (Full Board)** to increase adoption.  
+   - Minimize "Undefined" meal types through better data collection.
 
-Promote BB (Bed & Breakfast) packages as the most preferred option.
-Improve flexibility and affordability of FB (Full Board) to increase adoption.
-Minimize "Undefined" meal types through better data collection.
+2. **Optimize Booking Channels:**  
+   - Focus on **TA/TO channels** for long lead-time bookings with early-bird offers.  
+   - Boost **Direct and Corporate bookings** through targeted campaigns.  
+   - Leverage **GDS and Undefined channels** for last-minute deals.
 
-2. Optimize Booking Channels:
+3. **Leverage Market Segments:**  
+   - Capitalize on **Group bookings** with tailored packages and discounts.  
+   - Strengthen **Online TA partnerships** to drive adult bookings.  
+   - Expand **Corporate and Direct** segments for diversified revenue.
 
-Focus on TA/TO channels for long lead-time bookings with early-bird offers.
-Boost Direct and Corporate bookings through targeted campaigns.
-Leverage GDS and Undefined channels for last-minute deals.
+4. **Improve Occupancy Trends:**  
+   - Boost **weekday stays** with business-friendly packages.  
+   - Increase **weekend bookings** through family and leisure promotions.
 
-3. Leverage Market Segments:
+5. **Reduce Cancellations and No-Shows:**  
+   - Implement flexible cancellation policies with confirmation incentives.  
+   - Reduce no-shows through deposits and timely reminders.
 
-Capitalize on Group bookings with tailored packages and discounts.
-Strengthen Online TA partnerships to drive adult bookings.
-Expand Corporate and Direct segments for diversified revenue.
-
-4. Improve Occupancy Trends:
-
-Boost weekday stays with business-friendly packages.
-Increase weekend bookings through family and leisure promotions.
-
-5. Reduce Cancellations and No-Shows:
-
-Implement flexible cancellation policies with confirmation incentives.
-Reduce no-shows through deposits and timely reminders.
-
-6. Attract Family Bookings:
-Offer family-friendly packages with discounts, kid-friendly meals, and activities.
-
+6. **Attract Family Bookings:**  
+   - Offer family-friendly packages with discounts, kid-friendly meals, and activities.  
 
 Insights
 
