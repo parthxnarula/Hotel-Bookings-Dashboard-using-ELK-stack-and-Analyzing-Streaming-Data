@@ -17,30 +17,55 @@ Total Columns: 21
 # *Key Columns and Description:*
 
 Hotel: Type of hotel (Resort Hotel or City Hotel).
+
 Is Canceled: Indicates if the booking was canceled (0 = No, 1 = Yes).
+
 Lead Time: Number of days between booking date and arrival date.
+
 Arrival Date: Includes columns like arrival_date_year, arrival_date_month, and arrival_date_week_number.
+
 Adults: Number of adults included in the booking.
+
 Children: Number of children included in the booking.
+
 Babies: Number of babies included in the booking.
+
 Meal: Type of meal plan booked:
+
 BB: Bed & Breakfast
+
 HB: Half Board (breakfast + one meal)
+
 FB: Full Board (all meals)
+
 SC: Self-Catering
+
 Undefined: No meal plan specified
+
 Market Segment: Booking source or channel (e.g., Direct, Corporate, TA/TO, Groups).
+
 Distribution Channel: Booking distribution method (TA/TO, Direct, Corporate, GDS).
+
 Reserved Room Type: Type of room reserved by the guest.
+
 Assigned Room Type: Room type actually assigned during the stay.
+
 Stays in Week Nights: Number of nights the guest stayed during weekdays.
+
 Stays in Weekend Nights: Number of nights the guest stayed during weekends.
+
 Previous Cancellations: Number of prior cancellations for the guest.
+
 Previous Bookings Not Canceled: Count of confirmed bookings in the past.
+
 Reservation Status: Final status of the booking (Check-Out, Canceled, No-Show).
+
 Days in Waiting List: Number of days the booking was on a waiting list.
+
 Customer Type: Type of guest (e.g., Transient, Contract, Group).
+
 ADR (Average Daily Rate): Average rate per day for the booking.
+
 Total of Special Requests: Number of special requests made by the guest.
 
 # *Acknowledgements*
