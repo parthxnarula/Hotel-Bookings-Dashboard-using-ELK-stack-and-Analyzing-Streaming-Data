@@ -30,11 +30,11 @@
 
 ### Insights
 
-Graph 1. Count of Children:
+## Graph 1. Count of Children:
 
 o	Total number of children across all bookings: 51,469.
 
-Graph 2.	Average Lead Time per Distribution Channel:
+## Graph 2.	Average Lead Time per Distribution Channel:
 
 o	TA/TO (Travel Agents/Tour Operators) has the highest average lead time, close to 100 days.
 
@@ -44,7 +44,7 @@ o	Undefined and GDS channels have the shortest lead times, averaging below 30 da
 
 Key Insight: TA/TO bookings require significantly more lead time compared to other distribution channels, while GDS and Undefined channels involve shorter-term bookings.
 
-graph 3. Average Lead Time by Market Segment:
+## graph 3. Average Lead Time by Market Segment:
 
 o	Groups account for the largest share of bookings with 36.11%, followed by:
 
@@ -56,7 +56,7 @@ o	Groups account for the largest share of bookings with 36.11%, followed by:
 
 o	Smaller segments include Corporate and Other.
 
-graph 4. Adult Count by Market Segment:
+## graph 4. Adult Count by Market Segment:
 
 o	Online TA leads in the number of adults booked, with nearly 25,000 bookings.
 
@@ -68,7 +68,7 @@ Key Insight:
 
 •	Direct and Corporate segments hold a smaller share, suggesting limited reliance on these channels for bookings.
 
-graph 5. Average of stays in weeknights vs. weekend nights
+## graph 5. Average of stays in weeknights vs. weekend nights
 
 •	Average stays in weeknights: 2.925
 
@@ -80,7 +80,7 @@ graph 5. Average of stays in weeknights vs. weekend nights
 
 •	Guests may book shorter stays on weekends, likely for leisure or short vacations.
 
-graph 6. Reservation status of Adults vs. Children
+## graph 6. Reservation status of Adults vs. Children
 
 •	The Checkout status has a significantly high number of adults (~14) compared to children.
 
@@ -90,7 +90,7 @@ graph 6. Reservation status of Adults vs. Children
 
 •	The number of canceled and no-show bookings indicates a manageable cancellation rate, but cancellations may still need attention.
 
-graph 7. Reservation Status of Adults
+## graph 7. Reservation Status of Adults
 
 •	Checkout dominates the reservation statuses (~35,000 adults).
 
@@ -100,7 +100,7 @@ graph 7. Reservation Status of Adults
 
 Most bookings successfully result in Checkouts, which is a positive trend for hotel operations. However, a considerable number of bookings are canceled, which might affect revenue forecasts.
 
-graph 8. Meal preferences of adults
+## graph 8. Meal preferences of adults
 
 1.	BB (Bed & Breakfast):
    
