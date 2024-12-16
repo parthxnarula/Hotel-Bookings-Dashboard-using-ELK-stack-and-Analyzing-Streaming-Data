@@ -33,13 +33,9 @@ Babies: Number of babies included in the booking.
 Meal: Type of meal plan booked:
 
 BB: Bed & Breakfast
-
 HB: Half Board (breakfast + one meal)
-
 FB: Full Board (all meals)
-
 SC: Self-Catering
-
 Undefined: No meal plan specified
 
 Market Segment: Booking source or channel (e.g., Direct, Corporate, TA/TO, Groups).
