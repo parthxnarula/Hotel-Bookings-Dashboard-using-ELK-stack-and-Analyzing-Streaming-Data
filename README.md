@@ -68,7 +68,7 @@ Total of Special Requests: Number of special requests made by the guest.
 # *Acknowledgements*
 The data is originally from the article Hotel Booking Demand Datasets, written by Nuno Antonio, Ana Almeida, and Luis Nunes for Data in Brief, Volume 22, February 2019.
 
-### Objectives:
+# *Objectives:*
 
 1. **Enhance Meal Offerings:**  
    - Promote **BB (Bed & Breakfast)** packages as the most preferred option.  
@@ -96,7 +96,7 @@ The data is originally from the article Hotel Booking Demand Datasets, written b
 6. **Attract Family Bookings:**  
    - Offer family-friendly packages with discounts, kid-friendly meals, and activities.  
 
-### Insights
+# *Insights*
 
 ## Graph 1. Count of Children:
 
