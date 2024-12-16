@@ -1,5 +1,6 @@
 # Hotel-Bookings-Dashboard-using-ELK-stack-and-Analyzing-Streaming-Data
 
+
 ### About the Dataset
 
 # *Context*
@@ -66,8 +67,6 @@ Total of Special Requests: Number of special requests made by the guest.
 
 # *Acknowledgements*
 The data is originally from the article Hotel Booking Demand Datasets, written by Nuno Antonio, Ana Almeida, and Luis Nunes for Data in Brief, Volume 22, February 2019.
-
-
 
 ### Objectives:
 
