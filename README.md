@@ -1,5 +1,6 @@
 # Hotel-Bookings-Dashboard-using-ELK-stack-and-Analyzing-Streaming-Data
 
+https://github.com/user-attachments/assets/d199da7a-7ceb-4c5e-a69f-6217f1dea207
 
 ### About the Dataset
 
